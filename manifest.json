@@ -4,6 +4,7 @@
   "description": "Easily search Flickr for images and videos licensed under a Creative Commons license.",
   "permissions": ["tabs"],
   "icons": {
+      "48": "icon_48.png",
       "128": "icon_128.png" },
   "browser_action": {
       "default_title": "Search CC Images",
