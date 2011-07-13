@@ -1,6 +1,6 @@
 {
   "name": "Creative Commons Flickr Image Search",
-  "version": "0.1",
+  "version": "0.9",
   "description": "Easily search Flickr for images and videos licensed under a Creative Commons license.",
   "permissions": ["tabs"],
   "icons": {
