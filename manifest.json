@@ -1,0 +1,13 @@
+{
+  "name": "Creative Commons Flickr Image Search",
+  "version": "0.1",
+  "description": "Easily search Flickr for images and videos licensed under a Creative Commons license.",
+  "permissions": ["tabs"],
+  "icons": {
+      "128": "icon_128.png" },
+  "browser_action": {
+      "default_title": "Search CC Images",
+      "default_icon": "favicon.png",
+      "popup": "popup.html"
+  }
+}
